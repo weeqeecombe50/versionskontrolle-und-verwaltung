@@ -7,6 +7,6 @@
     "test": "echo 'Keine Tests vorhanden' && exit 0"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
