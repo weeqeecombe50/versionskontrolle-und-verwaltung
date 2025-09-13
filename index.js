@@ -5,9 +5,9 @@ const PORT = process.env.PORT || 3000;
 app.use(express.json());
 
 app.get('/', (req, res) => {
-  res.send('Willkommen zur Versionskontrolle und Verwaltung!');
+  res.send('Welcome to Version Control and Management!');
 });
 
 app.listen(PORT, () => {
-  console.log(`Server läuft auf http://localhost:${PORT}`);
+  console.log(`Server running at http://localhost:${PORT}`);
 });
