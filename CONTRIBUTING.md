@@ -11,3 +11,8 @@ Vielen Dank für Ihr Interesse an unserem Projekt! Wir freuen uns über Beiträg
 5. Erstellen Sie einen neuen Pull-Request.
 
 Bitte stellen Sie sicher, dass Ihre Änderungen gut dokumentiert sind und neue Funktionen umfassend getestet wurden.
+
+## Zusätzliche Hinweise
+
+- Achten Sie darauf, die Code-Konventionen des Projekts einzuhalten.
+- Dokumentieren Sie alle neuen Abhängigkeiten im Projekt.
