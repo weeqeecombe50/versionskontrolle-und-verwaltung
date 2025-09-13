@@ -1,0 +1,12 @@
+{
+  "name": "versionskontrolle-und-verwaltung",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo 'Keine Tests vorhanden' && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
