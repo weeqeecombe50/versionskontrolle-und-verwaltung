@@ -16,3 +16,4 @@ Bitte stellen Sie sicher, dass Ihre Änderungen gut dokumentiert sind und neue F
 
 - Achten Sie darauf, die Code-Konventionen des Projekts einzuhalten.
 - Dokumentieren Sie alle neuen Abhängigkeiten im Projekt.
+- Stellen Sie sicher, dass Ihr Code auf dem neuesten Stand des Hauptzweigs basiert, bevor Sie einen Pull-Request erstellen.
